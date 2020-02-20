@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">FETCH Pro</string>
+
+    <string name="splashText_bold">Fetch</string>
+    <string name="splashText">Pro</string>
+    <string name="header">FETCHPro</string>
+
+    <string name="fast_deliver">Fast Delivery</string>
+
+    <string name="fast_deliverText">
+        Tempor aliquip ea culpa magna ullamco esse mollit ex fugiat elit.
+    </string>
+    <string name="btnOnboarding_next">next</string>
+    <string name="skipText_onboarding">SKIP</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_your">Enter your details to log in</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="forgot_pass_header">Forgot Password</string>
+    <string name="reset_pass_header">Reset Password</string>
+    <string name="log_in">Log in</string>
+    <string name="new_user">New User? </string>
+    <string name="signUp">Sign Up</string>
+    <string name="signIn">Sign In</string>
+    <string name="retrieve">RETRIEVE</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="enter_new_password2">Re-enter New Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="hint_enter_phone">Enter Phone Number</string>
+    <string name="already_have">Already have an account? </string>
+    <string name="sign_up_with">SIGN UP WITH GOOGLE</string>
+
+
+
+
+
+</resources>
