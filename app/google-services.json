@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "896910303186",
+    "firebase_url": "https://fetch-pro.firebaseio.com",
+    "project_id": "fetch-pro",
+    "storage_bucket": "fetch-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896910303186:android:ce5f1b45298ed33367b20b",
+        "android_client_info": {
+          "package_name": "com.example.fetchpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896910303186-pea86o36tcki55b4tdlrcafipr53njc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fetchpro",
+            "certificate_hash": "c319818286dc21dcb567fdb82e01ec7beaf0dcb4"
+          }
+        },
+        {
+          "client_id": "896910303186-q2rtjiltga63rc9luut0s9fc7r4kgv6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fetchpro",
+            "certificate_hash": "ab4b02c51048ac1334d5cb444cf625144cf2b6f9"
+          }
+        },
+        {
+          "client_id": "896910303186-fn4bttfeavvrb0m614nq9kcjqdoh636u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYA3SZ3-pGl0tA0yNPYM79kYnaaAd9BEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896910303186-fn4bttfeavvrb0m614nq9kcjqdoh636u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -43,7 +43,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView6"
-            app:srcCompat="@drawable/imgLogin" />
+            app:srcCompat="@drawable/login" />
 
         <TextView
             android:id="@+id/textView7"
@@ -109,6 +109,7 @@
             android:layout_width="129dp"
             android:layout_height="43dp"
             android:layout_marginTop="24dp"
+            android:onClick="LoginClicked"
             android:background="@drawable/btn_background_dark"
             android:elevation="30dp"
             android:text="@string/log_in"

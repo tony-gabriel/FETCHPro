@@ -17,13 +17,12 @@
 
     <Button
         android:id="@+id/btn_next"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="118dp"
+        android:layout_height="43dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="16dp"
         android:background="@drawable/btn_background_dark"
-        android:drawableEnd="@drawable/ic_chevron_right"
         android:elevation="30dp"
         android:text="@string/btnOnboarding_next"
         android:textAllCaps="true"

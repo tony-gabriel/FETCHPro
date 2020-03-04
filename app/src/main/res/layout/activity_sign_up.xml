@@ -72,6 +72,7 @@
             android:layout_width="140dp"
             android:layout_height="43dp"
             android:layout_marginTop="30dp"
+            android:onClick="SignUpActivity"
             android:background="@drawable/btn_background_dark"
             android:elevation="30dp"
             android:text="@string/signUp"

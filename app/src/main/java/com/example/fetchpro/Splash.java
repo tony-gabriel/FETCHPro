@@ -31,7 +31,7 @@ public class Splash extends AppCompatActivity {
                 finally
                 {
                     //some checks will be required for condition to either be redirected to home or onboarding...
-                    Intent intent = new Intent(Splash.this, Login.class);
+                    Intent intent = new Intent(Splash.this, MainActivity.class);
                     startActivity(intent);
                 }
             }

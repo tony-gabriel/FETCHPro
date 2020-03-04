@@ -29,6 +29,9 @@
     <string name="create_account">Create Account</string>
     <string name="hint_enter_phone">Enter Phone Number</string>
     <string name="already_have">Already have an account? </string>
+    <string name="input_mail_error">Please enter an email</string>
+    <string name="input_mail_validation">please enter a valid email</string>
+    <string name="input_number_Validation">Please enter a valid phone Number </string>
     <string name="sign_up_with">SIGN UP WITH GOOGLE</string>
 
 
