@@ -6,4 +6,8 @@
     <color name="colorTextMinor">#A9A9A9</color>
     <color name="colorBtnFill">#663399</color>
     <color name="colorBtnFillLight">#FFFFFF</color>
+    <color name="navHeadFill">#2B2B2B</color>
+    <color name="gradientEnd">#FFFFFF</color>
+    <color name="gradientStart">#CACACA</color>
+    <color name="gradientCenter">#F1F1F1</color>
 </resources>

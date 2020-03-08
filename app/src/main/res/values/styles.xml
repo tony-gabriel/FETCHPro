@@ -95,6 +95,26 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="navText">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#A4000000</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="navTitle">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="feedText">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#94C4C4C4</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+
+
     <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />

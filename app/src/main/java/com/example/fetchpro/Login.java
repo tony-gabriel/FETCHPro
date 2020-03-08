@@ -20,7 +20,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class Login extends AppCompatActivity {
 
- FirebaseAuth mAuth;
+    FirebaseAuth mAuth;
     TextInputLayout layoutEmail, layoutPassword;
     Button Login;
     TextView forgotPassword, gotoSignUp;
@@ -46,23 +46,13 @@ public class Login extends AppCompatActivity {
 
 
         //setting onClickListeners...
-        /*Login.setOnClickListener(new View.OnClickListener() {
+        Login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-
-
-
-                //form validation...
-                //this is just a place holder validation, need better validation for email and password validating...
-
-
-
-
                 loginUser();
-
             }
-        });*/
+        });
 
         forgotPassword.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -119,8 +109,10 @@ public class Login extends AppCompatActivity {
             @Override
             public void onComplete(@NonNull Task<AuthResult> task) {
 
-                if(task.isSuccessful()){
+                // TODO: add progressBar
 
+                if(task.isSuccessful()){
+                    // TODO: link to Home_SideNav activity
                     Toast.makeText(com.example.fetchpro.Login.this, " Login Sucess", Toast.LENGTH_LONG).show();
 
 
@@ -134,10 +126,5 @@ public class Login extends AppCompatActivity {
             }
         });
 
-    }
-
-    public void LoginClicked(View view) {
-
-        loginUser();
     }
 }
